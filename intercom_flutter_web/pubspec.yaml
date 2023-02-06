@@ -19,7 +19,7 @@ dependencies:
     git:
       url: https://github.com/quandoo/intercom_flutter.git
       path: intercom_flutter_platform_interface
-      ref: master
+      ref: united_packages_under_one_v2
   uuid: ^3.0.7 # to get the random uuid for registerUnidentifiedUser in web
 
 dev_dependencies:
